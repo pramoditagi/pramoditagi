@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently Working On: AeroInfo Application<br>👯 Open to Collaborate On: Retroreflect application<br>🤝 Seeking Help With: Data Structures and Algorithms, React JS, Ruby on Rails, JavaScript, Java and Node JS<br>🌱 Currently Learning: Ruby on Rails, Java and HTML<br>💬 Ask Me About: HTML, CSS, JavaScript, Java and Ruby on Rails<br>⚡ Fun Fact: I'm driven by challenges and stay laser-focused until I achieve my goals<br>📫 How to Reach Me: Details can be found under social section. Select any medium to reach out to me!
+🔭 Currently Working On: AirInfo Application<br>👯 Open to Collaborate On: Retroreflect application<br>🤝 Seeking Help With: Data Structures and Algorithms, React JS, Ruby on Rails, JavaScript, Java and Node JS<br>🌱 Currently Learning: Ruby on Rails, Java and HTML<br>💬 Ask Me About: HTML, CSS, JavaScript, Java and Ruby on Rails<br>⚡ Fun Fact: I'm driven by challenges and stay laser-focused until I achieve my goals<br>📫 How to Reach Me: Details can be found under social section. Select any medium to reach out to me!
 
 
 ## 🌐 Socials:
