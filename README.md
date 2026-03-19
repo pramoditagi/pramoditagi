@@ -1,5 +1,11 @@
 # 💫 About Me:
 
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4668F7&width=435&lines=Hello+there%2C+this+is+Satyapramod...;In+short%2C+Pramod;Nice+to+meet+you!)](https://git.io/typing-svg)
+
+---
+
 🔭 **Currently working on:** Building a high-performance **Serverless API** using AWS Services.  
 👯 **Looking to collaborate on:** **Retroreflect**, a retrospective dashboard designed to streamline and improve team meetings.  
 🤝 **Looking for help with:** Mastering **React JS**, and scaling **Java** and **Rails** projects.  
@@ -26,7 +32,7 @@ _A dedicated dashboard to streamline and automate Agile retrospective meetings._
 - **Tech Stack:** `React JS`, `Ruby on Rails`, `PostgreSQL`, `Redis`.
 - **Status:** 🚧 Looking for collaborators to help with frontend scaling.
 
-### [☁️ Serverless AWS API](https://github.com/serverless-api)
+### [☁️ Serverless AWS API](https://github.com/pramoditagi/serverless-api)
 
 _A high-concurrency API built with a focus on cost-optimization and scalability._
 
