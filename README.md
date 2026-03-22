@@ -32,7 +32,7 @@ _A dedicated dashboard to streamline and automate Agile retrospective meetings._
 - **Tech Stack:** `React JS`, `Ruby on Rails`, `PostgreSQL`, `Redis`.
 - **Status:** 🚧 Looking for collaborators to help with frontend scaling.
 
-### [☁️ Serverless AWS API](https://github.com/pramoditagi/serverless-api)
+### [☁️ Serverless AWS API](https://github.com/pramoditagi/aws-serverless-api)
 
 _A high-concurrency API built with a focus on cost-optimization and scalability._
 
