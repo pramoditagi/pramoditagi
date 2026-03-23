@@ -28,16 +28,25 @@
 
 _A dedicated dashboard to streamline and automate Agile retrospective meetings._
 
-- **Key Features:** Real-time collaboration, action-item tracking, and historical data visualization.
-- **Tech Stack:** `React JS`, `Ruby on Rails`, `PostgreSQL`, `Redis`.
-- **Status:** 🚧 Looking for collaborators to help with frontend scaling.
+- **Key Features:**
+  - Real-time collaboration
+  - Action-item tracking
+  - Historical data visualization
+- **Tech Stack:** `React JS`, `Ruby on Rails`, `PostgreSQL`, `Redis`
+- **Status:** 🚧 Yet to start.
+
+---
 
 ### [☁️ Serverless AWS API](https://github.com/pramoditagi/aws-serverless-api)
 
 _A high-concurrency API built with a focus on cost-optimization and scalability._
 
-- **Architecture:** Event-driven design using `AWS Lambda`, `API Gateway`, and `DynamoDB`.
-- **Highlights:** Implemented CI/CD pipelines with `GitHub Actions`.
+- **Key Features:**
+  - Event-driven serverless architecture
+  - CI/CD pipelines for automated deployment
+  - High availability and scalability
+- **Tech Stack:** `AWS Lambda`, `API Gateway`, `DynamoDB`, `GitHub Actions`
+- **Status:** 🚧 Yet to start.
 
 ---
 
